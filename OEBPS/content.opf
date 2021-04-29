@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="hg-6927-12-v" dir="ltr" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="hg-6927-12-v">urn:uuid:51e33437-ea96-4d49-98ca-892767cb8e47</dc:identifier>
+    <dc:language>pt</dc:language>
+    <dc:title>Supremo Tribunal Justiça</dc:title>
+    <dc:contribuiter>Biblioteca Nacional de Portugal</dc:contribuiter>
+    <dc:creator id="creator">Eduardo Alves de Sá</dc:creator>
+    <meta id="role" property="role" refines="#creator" scheme="marc:relators">aut</meta>
+    <meta property="file-as" refines="#creator">Sá, Eduardo de Alves</meta>
+    <dc:date>1888</dc:date>
+    <dc:coverage>Lisboa</dc:coverage>
+    <dc:publisher>Typographia de Christovão Augusto Rogrigues</dc:publisher>
+    <meta property="dcterms:modified">2021-03-19T16:55:20Z</meta>
+    <meta content="1.4.3" name="Sigil version"/>
+    <meta property="schema:accessibilitySummary">Esta publicação respeita as orientações do WCAG 2.0 Level AA.</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessibilityFeature">none</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+  </metadata>
+  <manifest>
+    <item id="capa" href="Text/capa.xhtml" media-type="application/xhtml+xml"/>
+    <item id="indice" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="x0_1_fontes_literarias.xhtml" href="Text/0_1_fontes_literarias.xhtml" media-type="application/xhtml+xml"/>
+    <item id="fichaTecnica" href="Text/fichaTecnica.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sgc-nav" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="x0_2_introducao.xhtml" href="Text/0_2_introducao.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x0_3_palavras_primeira_edicao.xhtml" href="Text/0_3_palavras_primeira_edicao.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1_modificacoes.xhtml" href="Text/1_modificacoes.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1_0.xhtml" href="Text/1_0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1_1.xhtml" href="Text/1_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1_2.xhtml" href="Text/1_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1_3.xhtml" href="Text/1_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1_4.xhtml" href="Text/1_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1_5.xhtml" href="Text/1_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1_6.xhtml" href="Text/1_6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1_7.xhtml" href="Text/1_7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1_8.xhtml" href="Text/1_8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1_9.xhtml" href="Text/1_9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x1_10.xhtml" href="Text/1_10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2_0.xhtml" href="Text/2_0.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2_1.xhtml" href="Text/2_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2_2.xhtml" href="Text/2_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x2_3.xhtml" href="Text/2_3.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine>
+    <itemref idref="capa"/>
+    <itemref idref="indice"/>
+    <itemref idref="x0_1_fontes_literarias.xhtml"/>
+    <itemref idref="x0_2_introducao.xhtml"/>
+    <itemref idref="x0_3_palavras_primeira_edicao.xhtml"/>
+    <itemref idref="x1_modificacoes.xhtml"/>
+    <itemref idref="x1_0.xhtml"/>
+    <itemref idref="x1_1.xhtml"/>
+    <itemref idref="x1_2.xhtml"/>
+    <itemref idref="x1_3.xhtml"/>
+    <itemref idref="x1_4.xhtml"/>
+    <itemref idref="x1_5.xhtml"/>
+    <itemref idref="x1_6.xhtml"/>
+    <itemref idref="x1_7.xhtml"/>
+    <itemref idref="x1_8.xhtml"/>
+    <itemref idref="x1_9.xhtml"/>
+    <itemref idref="x1_10.xhtml"/>
+    <itemref idref="x2_0.xhtml"/>
+    <itemref idref="x2_1.xhtml"/>
+    <itemref idref="x2_2.xhtml"/>
+    <itemref idref="x2_3.xhtml"/>
+    <itemref idref="fichaTecnica"/>
+  </spine>
+</package>

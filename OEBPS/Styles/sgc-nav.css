@@ -1,0 +1,68 @@
+nav#landmarks {
+    display:none;
+}
+nav#page-list {
+    display:none;
+}
+ol {
+    list-style-type: none;
+}
+li{
+	line-height:1.5;
+}
+nav h1 {
+	margin:10% 0;
+}
+h1, h2, h3, h4 {
+	text-align:center;
+}
+hr, hr:after {
+	border:none;
+	content:"*";
+	text-align:center;
+	margin:6% 0 5% 0;
+}
+.bold{
+	font-weight:bold;
+}
+.italic{
+	font-style:italic;
+}
+.center{
+	text-align:center;
+}
+.mainFrame{
+	margin:auto;
+	max-width:62ch;
+	line-height:1.5;
+}
+.texto p {
+	text-indent:1.2em;
+	margin:0.3em 0;
+	
+}
+.fontes p{
+	margin:0 0 0.7em 3em;
+	text-indent:-2.0em;
+}
+.main-number {
+	display:block;
+	text-align:center;
+	margin-top:1em;
+}
+.sub-number{
+	display:block;
+	margin-top:0.3em;
+}
+.sub-text{
+	display:block;
+	margin-left:2em;
+}
+.sub-lista{
+	padding-left:1em;
+}
+#ficha-tecnica{
+	margin-top:2em;
+}
+
+
