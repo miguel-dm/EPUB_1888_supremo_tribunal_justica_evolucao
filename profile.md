@@ -1,7 +1,7 @@
 # Document Profile
 
 1. Original Document
-    -**Author:** Sá, Eduardo Alves de, 1849-1906
+    - **Author:** Sá, Eduardo Alves de, 1849-1906
     - **Title:** Supremo Tribunal de Justiça: Evolução Histórica desta Instituição e apreciação de sua essencia e modo de ser actual
     - **Publisher:** Lisboa: Typ. de Cristovão Augusto Rodrigues, 1888
     - **Language:** Portuguese
