@@ -13,4 +13,4 @@
 
 3. EPUB
     - **Text:** complete
-    - **Programming:** 1st draft
+    - **Code:** 1st draft
